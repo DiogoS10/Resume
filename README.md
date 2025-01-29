@@ -9,5 +9,5 @@ Sinta-se à vontade para consultar o documento e entrar em contato caso precise 
 
 Clique no arquivo abaixo para acessar o currículo:
 
-- [Currículo PDF](./Resume Diogo Salgado.pdf)
+- [Currículo PDF](./Resume_DiogoSalgado.pdf)
 
