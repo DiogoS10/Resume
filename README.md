@@ -1,4 +1,4 @@
-# 📄 Currículo de Diogo Salgado 
+# 📄 Currículo  
 
 Este repositório contém o meu currículo em formato PDF, disponível para visualização ou download.   
 
