@@ -7,7 +7,7 @@ Sinta-se à vontade para consultar o documento e entrar em contato caso precise 
 
 ## 🚀 Link para o currículo
 
-Clique no arquivo abaixo para acessar o currículo:
+Clique no arquivo abaixo para ãceder ao currículo:
 
-- [Currículo PDF](./Resume_DiogoSalgado.pdf)
-- [Currículo PDF](./Resume_DiogoSalgado.pdf)
+- [Currículo](./Resume_DiogoSalgado.pdf)
+- [Cetidão Mestrado](./Resume_Certidão_Mestrado.pdf)
