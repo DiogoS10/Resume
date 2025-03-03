@@ -1,12 +1,12 @@
-# 📄 Currículo  
+# 📄 Resume  
 
-Este repositório contém o meu currículo em formato PDF, disponível para visualização ou download.   
+This repository contains my CV and Master's Degree Certificate   
 
 ---
 
-## 🚀 Link para o currículo
+## 🚀 Link 
 
-Clique no arquivo abaixo para aceder ao currículo:
+Click on the file below to access the documents:
 
-- [Currículo](./Resume_DiogoSalgado.pdf)
-- [Certidão Mestrado](./Master's_degree_certificate.PDF)
+- [Resume](./Resume_DiogoSalgado.pdf)
+- [Master's Degree Certificate](./Master's_degree_certificate.PDF)
