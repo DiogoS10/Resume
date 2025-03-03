@@ -10,4 +10,4 @@ Sinta-se à vontade para consultar o documento e entrar em contato caso precise 
 Clique no arquivo abaixo para ãceder ao currículo:
 
 - [Currículo](./Resume_DiogoSalgado.pdf)
-- [Certidão Mestrado](./Master's degree certificate.pdf)
+- [Certidão Mestrado](./Master's_degree_certificate.pdf)
