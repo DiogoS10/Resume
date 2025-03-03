@@ -6,7 +6,7 @@ Este repositório contém o meu currículo em formato PDF, disponível para visu
 
 ## 🚀 Link para o currículo
 
-Clique no arquivo abaixo para ãceder ao currículo:
+Clique no arquivo abaixo para aceder ao currículo:
 
 - [Currículo](./Resume_DiogoSalgado.pdf)
 - [Certidão Mestrado](./Master's_degree_certificate.PDF)
