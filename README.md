@@ -25,13 +25,13 @@ Below is a curated list of certifications earned through hands-on learning and a
   _Udemy, 2024_  
   👉 [Certificate](./Certificate_SQL.pdf)
 
-- **Power BI Complete – From Beginner to Advanced**  
-  _Udemy, 2024_  
-  👉 [Certificate](./Certificate_PowerBI.pdf)
-
 - **Introduction to SQL**  
   _IBM via edX, 2025_  
   👉 [Certificate](./IBM_SQL_Certificate_edX.pdf)
+
+- **Power BI Complete – From Beginner to Advanced**  
+  _Udemy, 2024_  
+  👉 [Certificate](./Certificate_PowerBI.pdf)
 
 ---
 
