@@ -23,22 +23,22 @@ Below is a curated list of certifications earned through hands-on learning and a
 ### 📊 Data Engineering
 - **SQL from Basic to Advanced (with MySQL and Final Project)**  
   _Udemy, 2024_  
-  👉 [Certificate](./Certificate_SQL.pdf)
+  👉 [Certificate](./Certificates/Certificate_SQL.pdf)
 
 - **Introduction to SQL**  
   _IBM via edX, 2025_  
-  👉 [Certificate](./IBM_SQL_Certificate_edX.pdf)
+  👉 [Certificate](./Certificates/IBM_SQL_Certificate_edX.pdf)
 
 - **Power BI Complete – From Beginner to Advanced**  
   _Udemy, 2024_  
-  👉 [Certificate](./Certificate_PowerBI.pdf)
+  👉 [Certificate](./Certificates/Certificate_PowerBI.pdf)
 
 ---
 
 ### 🏆 SAP & ERP Systems
 - **ERPsim Game EMEA South – SAP S/4HANA Simulation**  
   _SAP Next-Gen, 2021_  
-  👉 [Certificate](./ERPsim_Game_Certificate.pdf)
+  👉 [Certificate](./Certificates/ERPsim_Game_Certificate.pdf)
 
 ---
 
