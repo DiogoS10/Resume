@@ -1,6 +1,6 @@
 # 📄 Resume  
 
-This repository contains my CV and Master's Degree Certificate   
+This folder contains my resume, master's degree certificate, and all certificates earned from specialization and professional development courses.
 
 ---
 
