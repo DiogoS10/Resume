@@ -20,7 +20,7 @@ Below is a curated list of certifications earned through hands-on learning and a
 
 ---
 
-### 📊 Data Analysis & Business Intelligence
+### 📊 Data Engeneering
 - **SQL from Basic to Advanced (with MySQL and Final Project)**  
   _Udemy, 2024_  
   👉 [Certificate](./Certificate_SQL.pdf)
