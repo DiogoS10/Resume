@@ -33,7 +33,7 @@ Below is a curated list of certifications earned through hands-on learning and a
   _Udemy, 2024_  
   👉 [Certificate](./Certificates/Certificate_PowerBI.pdf)
 
-  - **Linux Commands & Shell Scripting**  
+- **Linux Commands & Shell Scripting**  
   _IBM via edX, 2025_  
   👉 [Certificate](./Certificates/IBM_Linux_Certificate_edX.pdf)
 
