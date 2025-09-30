@@ -37,6 +37,10 @@ Below is a curated list of certifications earned through hands-on learning and a
   _IBM via edX, 2025_  
   👉 [Certificate](./Certificates/IBM_Linux_Certificate_edX.pdf)
 
+- **Building ETL and Data Pipelines with Bash, Airflow and Kafka**  
+  _IBM via edX, 2025_  
+  👉 [Certificate](./Certificates/IBM_Linux_Certificate_edX.pdf)
+      
 ---
 
 ### 🏆 SAP & ERP Systems
