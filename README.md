@@ -21,6 +21,27 @@ Below is a curated list of certifications earned through hands-on learning and a
 ---
 
 ### 📊 Data Engineering
+
+- **SQL, ETL and BI Fundamentals**  
+  _IBM via edX, 2025_  
+  👉 [Certificate](./Certificates/Professional_Certificate_IBM.pdf)
+
+  - **Power BI Complete – From Beginner to Advanced**  
+    _Udemy, 2024_  
+    👉 [Certificate](./Certificates/Certificate_PowerBI.pdf)
+  
+  - **Linux Commands & Shell Scripting**  
+    _IBM via edX, 2025_  
+    👉 [Certificate](./Certificates/IBM_Linux_Certificate_edX.pdf)
+  
+  - **Building ETL and Data Pipelines with Bash, Airflow and Kafka**  
+    _IBM via edX, 2025_  
+    👉 [Certificate](./Certificates/IBM_Linux_Certificate_edX.pdf)
+  
+  - **Data Warehousing and BI Analytics**  
+    _IBM via edX, 2025_  
+    👉 [Certificate](./Certificates/IBM_DW_Certificate_edX.pdf)
+    
 - **SQL from Basic to Advanced (with MySQL and Final Project)**  
   _Udemy, 2024_  
   👉 [Certificate](./Certificates/Certificate_SQL.pdf)
@@ -28,18 +49,6 @@ Below is a curated list of certifications earned through hands-on learning and a
 - **Introduction to SQL**  
   _IBM via edX, 2025_  
   👉 [Certificate](./Certificates/IBM_SQL_Certificate_edX.pdf)
-
-- **Power BI Complete – From Beginner to Advanced**  
-  _Udemy, 2024_  
-  👉 [Certificate](./Certificates/Certificate_PowerBI.pdf)
-
-- **Linux Commands & Shell Scripting**  
-  _IBM via edX, 2025_  
-  👉 [Certificate](./Certificates/IBM_Linux_Certificate_edX.pdf)
-
-- **Building ETL and Data Pipelines with Bash, Airflow and Kafka**  
-  _IBM via edX, 2025_  
-  👉 [Certificate](./Certificates/IBM_Linux_Certificate_edX.pdf)
       
 ---
 
